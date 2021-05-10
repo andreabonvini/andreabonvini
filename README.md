@@ -5,4 +5,7 @@
 - 📚 I recently started writing Blog-Posts @[TheOptimalPolicy](https://theoptimalpolicy.github.io)
 - 📫 How to reach me: a.bonvini96@gmail.com
 
+[![](https://github-readme-stats.vercel.app/api?username=andreabonvini&show_icons=true&include_all_commits=true&theme=vue)]()
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreabonvini&theme=vue)]()
+
 
