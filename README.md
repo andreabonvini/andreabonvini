@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧠 I'm a Bioengineering graduate student @ Politecnico Di Milano, currently working on my MSc Thesis.
+I'm a Bioengineering graduate student @ Politecnico Di Milano, currently working on my MSc Thesis.
 
 <a href=https://www.linkedin.com/in/andreabonvini/>
   <img align="left" alt="andreabonvini's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
