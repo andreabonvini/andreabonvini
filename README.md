@@ -7,6 +7,5 @@ I recently concluded my MSc in Bioengineering @ Politecnico Di Milano, currently
 - 📚 Check my personal blog [here](https://www.lastweekspotatoes.com).
 
 [![](https://github-readme-stats.vercel.app/api?username=andreabonvini&show_icons=true&include_all_commits=true&theme=vue)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreabonvini&theme=vue)]()
 
 
