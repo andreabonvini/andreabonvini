@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I recently concluded my MSc in Bioengineering @ Politecnico Di Milano, currently working as a Computer Vision engineer.
+Currently working as amn Applied Machine Learning engineer in the St. Gallen canton 🇨🇭.
 
 - 🌱 My main interests are Computer Vision, Machine Learning and Computational Neuroscience
 - 📫 How to reach me: a.bonvini96@gmail.com
